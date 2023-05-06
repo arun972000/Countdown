@@ -1,0 +1,8 @@
+#p1{
+    font-weight: 700;
+    margin-top: 300px;
+    font-size: 60px;
+    background: -webkit-linear-gradient(rgb(188, 12, 241), rgb(212, 4, 4));
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+}
